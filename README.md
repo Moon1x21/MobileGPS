@@ -154,7 +154,7 @@
     👩‍💻Jueun Mun 
        -Kyung Hee University
        -Major in Computer Engineering
-       -kimmin9624@dgu.ac.kr
+       -cindy4741@khu.ac.kr
        -https://github.com/Moon1x21
       
     👨🏻‍🦱Jiwoong Choi
